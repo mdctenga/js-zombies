@@ -7,7 +7,9 @@
  * @param {string} name     The item's name.
  * @property {string} name
  */
+var Item = function(param){
 
+}
 
 /**
  * Class => Weapon(name, damage)
@@ -24,6 +26,10 @@
  * @param {number} damage   The weapon's damage.
  * @property {number} damage
  */
+
+var Weapon = function(name, damage){
+  
+}
 
 
 /**
